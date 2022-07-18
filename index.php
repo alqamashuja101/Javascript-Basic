@@ -8,6 +8,7 @@
 </head>
 <body>
     <form>
+        <h1>Heading 1 Shah zain</h1>
         <input type="text" name="name" id="inpName">
     </form>
 </body>
